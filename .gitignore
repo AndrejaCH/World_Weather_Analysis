@@ -4,6 +4,7 @@ config.py
 #Adding additional practice.
 API_practice.ipynb
 Practice_random_method.ipynb
+Linear_regression_practice.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
